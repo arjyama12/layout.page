@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://www.teahub.io/photos/full/225-2254077_purple-abstract-background-design-hd-wallpaper-light-colour.jpg);
+    height: 100vh;
+    background-position: center;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 40px;
+    line-height: 40px;
+    background: #000099;
+    font-size: 22px;
+    text-align: center;
+}
+li{
+    display: inline-block;
+    font-style: italic;
+}
+a{
+    padding: 25px 30px;
+    color: #ffb3ff;
+    text-decoration: none;
+    width: 100px;
+    text-align: center;
+}
+.image-class{
+    position: absolute;
+    width: 52.5%;
+    left: 24%;
+    top: 9%;
+}
+.heading{
+    position: relative;
+    left: 54%;
+    top: 40%;
+    font-style: italic;
+    font-size: 31px;
+    color: #66004d;
+}
